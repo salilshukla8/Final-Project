@@ -3,7 +3,7 @@
 
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
-
+If you want to deploy this app then use the link---  https://heroku-app-diabetes.herokuapp.com/
 • A glimpse of the web app:
 
 ![GIF](readme_resources/diabetes-predictor-web-app.gif)
